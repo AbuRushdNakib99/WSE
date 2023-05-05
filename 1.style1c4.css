@@ -1,0 +1,8 @@
+body{
+    background-color: red;
+    color: white;
+}
+.myheading{
+    color: yellow;
+    border: 5px solid green;
+}
